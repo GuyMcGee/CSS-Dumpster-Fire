@@ -198,6 +198,7 @@ z-index: -1;
 
   .smile {
     border-bottom: solid 6px var(--facialcolor);
+    border-top: 0;
     margin: 11px 15px 0px 15px;
     height: 18px;
     width: 35px;
@@ -241,5 +242,7 @@ border-radius: 0 0 22% 22%;
 
 p {
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: larger;
 }
 
